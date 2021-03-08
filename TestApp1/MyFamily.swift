@@ -9,7 +9,7 @@ import Foundation
 
 class MyFamily {
     var myMame: String!
-    var numOfMembaers: Int? = 500
+    var numOfMembaers: Int? = 300
     
     func function1() -> Int?{
        return numOfMembaers
